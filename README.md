@@ -5,3 +5,7 @@
 ```
 npm install react
 ```
+
+```
+npm install node
+```

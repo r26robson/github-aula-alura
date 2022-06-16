@@ -14,3 +14,7 @@ git restore --source 5fa9a89 . (volta o projeto para um commit anterior informan
 git clone https://github.com/r26robson/terraform-aula.git
 git clone <repositorio> <meu-projeto-clone>
 git clone -branch new_feature <repositorio>
+
+git checkout -b desenvolvimento (criar uma nova branch)
+git switch main (mudar a branch, ex: voltar para a branch main)
+git switch desenvolvimento (Ex: mudar para branch de desenvolvimento)

@@ -23,3 +23,5 @@ git switch desenvolvimento (Ex: mudar para branch de desenvolvimento)
 git branch (mostra as branch disponiveis no repositorio)
 
 git merge desenvolvimento (junta a branch desenvolvimento na main)
+
+## teste commit repositorio renomeado

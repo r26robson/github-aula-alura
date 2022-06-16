@@ -19,3 +19,7 @@ git clone -branch new_feature <repositorio>
 git checkout -b desenvolvimento (criar uma nova branch)
 git switch main (mudar a branch, ex: voltar para a branch main)
 git switch desenvolvimento (Ex: mudar para branch de desenvolvimento)
+
+git branch (mostra as branch disponiveis no repositorio)
+
+git merge desenvolvimento (junta a branch desenvolvimento na main)

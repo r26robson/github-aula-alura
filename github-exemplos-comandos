@@ -1,0 +1,16 @@
+
+git init
+git add . ("." todos os arquivos do projeto)
+git add app.js ("app.js" adcionar apenas um arquivo do projeto no repositorio)
+git commit . -m "aletração para o terceiro push" ("." commit de todo o projeto)
+git commit app.js -m "aletração para o terceiro push" ("app.js" commit de apenas um arquivo do projeto)
+git push origin main (informando o push de qual branch)
+git push (envia para o repositorio origem no github)
+git pull (atualiza o repositorio origin github com o repositorio local projeto no desktop)
+git log
+git log --oneline (para ver os hash de cada commit)
+git restore --source 5fa9a89 . (volta o projeto para um commit anterior informando o hash desse commit)
+
+git clone https://github.com/r26robson/terraform-aula.git
+git clone <repositorio> <meu-projeto-clone>
+git clone -branch new_feature <repositorio>
